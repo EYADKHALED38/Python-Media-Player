@@ -1,0 +1,13 @@
+Python Media Player is a simple audio player
+ written in Python and Tkinter GUI library.
+ The project was created for practice and fun 
+purposes, and it can be used by anyone who wants
+ to hone their Python skills. The player displays
+ a list of files in a selected directory and allows
+ the user to play, pause, and stop the selected audio file.
+ Additionally, the volume can be adjusted and the
+ user can select a different audio file to play.
+ The player's interface is clean and easy to use,
+ making it a great starting point for anyone interested
+ in creating their own media player
+ or exploring the Tkinter GUI library.
